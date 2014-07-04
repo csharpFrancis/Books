@@ -1,4 +1,4 @@
 Page 1 of the AndroidProgramming..
 
 The Android Programming Page has been updated by Frank on the Mac..
-Frank will not attempt to commit his update back into the Git Repo..
+Frank will attempt to commit his update back into the Git Repo..
